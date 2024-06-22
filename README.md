@@ -25,14 +25,6 @@
 
 ---
 
-`활용 데이터` 
-
-| 정보 | 형태 | 크기 | 운영기관 | 출처 |
-| --- | --- | --- | --- | --- |
-| 고양이 안구    질환 데이터 | 반정형    (Json) | 207,504개(25,938,8) | AI Hub | https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=562 |
-| 고양이 안구    질환 데이터 | 비정형 (Image) | 25,938 장 | Al Hub | https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=562 |
-| 전국 동물병원 데이터 | 비정형     (API) | 36,432개(4,554,8) | Kakao | https://developers.kakao.com/docs/latest/ko/local/dev-guide |
-
 `분석 방법` 
 
 - 분석 언어
