@@ -11,9 +11,7 @@
 
 **(1) Google Drive :** [프로젝트 코드 & 데이터 & 산출물](https://drive.google.com/drive/folders/1RG1aH1zDg7JXFbCUYY0hjtHBhdFjx_2F?usp=sharing)
 
-**(2) Notion(팀) :**
-
-[‘냥이의 하루 안냥’ 프로젝트](https://www.notion.so/78e739d2fd1540f8a55e33975b9a6462?pvs=21)
+**(2) Notion(팀) :** [‘냥이의 하루 안냥’ 프로젝트](https://www.notion.so/78e739d2fd1540f8a55e33975b9a6462?pvs=21)
 
 ### 📋프로젝트 개요
 
